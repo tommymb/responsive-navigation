@@ -13,10 +13,6 @@ html {
   font: normal 100%/1.3 sans-serif;
 }
 
-html {
-  box-sizing: border-box;
-}
-
 *, *::before, *::after {
   box-sizing: inherit;
 }
@@ -25,7 +21,7 @@ body {
   margin: 0;
 }
 
-heder {
+header {
   padding: .5rem 0;
   background-color: #ccc;
   text-align: center;
